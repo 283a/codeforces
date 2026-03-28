@@ -29,7 +29,5 @@ int main()
     }
     cout << 0 << endl;
 
-    // cout << s1 << s2 << endl;
-
     return 0;
 }
